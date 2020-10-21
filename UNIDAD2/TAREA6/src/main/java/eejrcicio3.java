@@ -7,11 +7,16 @@ class ejercicio3 {
         Scanner teclado = new Scanner(System.in);
         int numero = teclado.nextInt();
 
-        if (numero % 1 == 0) {
-            System.out.println(1);
-        }
-        else {
-            System.out.println(0);
-        }
+        //if (numero % 1 == 0) {
+           // System.out.println(1);
+        //}
+        //else {
+            //System.out.println(0);
+        //}
+        if (numero % 1 == 0)
+            numero = 1;
+        else
+            numero = 0;
+
         }
     }
