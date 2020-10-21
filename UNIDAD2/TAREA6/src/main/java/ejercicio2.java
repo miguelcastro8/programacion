@@ -5,8 +5,8 @@ class ejercicio2 {
 
         System.out.println("introduce un numero");
         Scanner teclado = new Scanner(System.in);
-        int mes = teclado.nextInt();
-        switch(mes) {
+        int numero = teclado.nextInt();
+        switch(numero) {
             case 1: System.out.println( "El numero es uno" ); break;
             case 2: System.out.println( "El numero es dos" ); break;
             case 3: System.out.println( "El numero es tres" ); break;
