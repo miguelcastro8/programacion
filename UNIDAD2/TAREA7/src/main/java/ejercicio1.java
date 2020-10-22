@@ -14,9 +14,9 @@ class ejercicio1 {
 
         System.out.println("Valores iniciales: A = " + A + " B = " + B);
 
-        AUX = A +B;
-        A = AUX - A;
-        B = AUX - B;
+        AUX = A;
+        A = B;
+        B = A;
 
         System.out.println("Valores cambiados: A = " + (A + B - A) + " B = " + (A + B - B));
     }
