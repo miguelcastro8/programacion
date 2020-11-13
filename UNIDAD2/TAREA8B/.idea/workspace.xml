@@ -3,12 +3,35 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="ab22277e-c63c-4cf9-88e2-f025e5e7f87e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
+=======
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7541fe2-022d-4f6c-82ab-b9db65d549e3" name="Default Changelist" comment="ejercicio1 tarea8b tema2 java" />
+>>>>>>> a7de4f53c5cc67191f153a83e989798e6056064e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,21 +42,41 @@
       <ProjectState />
     </projectState>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1k323kNATc7zy4dcttD3kAArM1o" />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jQMQGZbLjN7Whcnm1PC0x2cTR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> a7de4f53c5cc67191f153a83e989798e6056064e
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/practicas" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TAREA9" />
+>>>>>>> a7de4f53c5cc67191f153a83e989798e6056064e
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ab22277e-c63c-4cf9-88e2-f025e5e7f87e" name="Default Changelist" comment="" />
       <created>1604914758590</created>
       <option name="number" value="Default" />
@@ -47,5 +90,48 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1701" y="456" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604914812891" />
+=======
+      <changelist id="f7541fe2-022d-4f6c-82ab-b9db65d549e3" name="Default Changelist" comment="" />
+      <created>1603731845549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603731845549</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ejercicio1 tarea8b tema2 java">
+      <created>1603732365945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603732365945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio1 tarea8b tema2 java" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio1 tarea8b tema2 java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604687072176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604687072176" />
+    <state x="550" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603732373331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603732373331" />
+>>>>>>> a7de4f53c5cc67191f153a83e989798e6056064e
   </component>
 </project>
